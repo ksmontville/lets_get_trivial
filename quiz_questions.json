@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which computer hardware device provides an interface for all other connected devices to communicate?",
+            "correct_answer": "Motherboard",
+            "incorrect_answers": [
+                "Central Processing Unit",
+                "Hard Disk Drive",
+                "Random Access Memory"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get modified?",
+            "correct_answer": "Final",
+            "incorrect_answers": [
+                "Static",
+                "Private",
+                "Public"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many kilobytes in one gigabyte (in decimal)?",
+            "correct_answer": "1000000",
+            "incorrect_answers": [
+                "1024",
+                "1000",
+                "1048576"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+            "correct_answer": "Green",
+            "incorrect_answers": [
+                "Red",
+                "Blue",
+                "Yellow"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which computer language would you associate Django framework with?",
+            "correct_answer": "Python",
+            "incorrect_answers": [
+                "C#",
+                "C++",
+                "Java"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does LTS stand for in the software market?",
+            "correct_answer": "Long Term Support",
+            "incorrect_answers": [
+                "Long Taco Service",
+                "Ludicrous Transfer Speed",
+                "Ludicrous Turbo Speed"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+            "correct_answer": "Hexidecimal",
+            "incorrect_answers": [
+                "Binary",
+                "Duodecimal",
+                "Octal"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The C programming language was created by this American computer scientist. ",
+            "correct_answer": "Dennis Ritchie",
+            "incorrect_answers": [
+                "Tim Berners Lee",
+                "al-Khw\u0101rizm\u012b",
+                "Willis Ware"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In computing, what does LAN stand for?",
+            "correct_answer": "Local Area Network",
+            "incorrect_answers": [
+                "Long Antenna Node",
+                "Light Access Node",
+                "Land Address Navigation"
+            ]
+        },
+        {
+            "category": "Science: Computers",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What language does Node.js use?",
+            "correct_answer": "JavaScript",
+            "incorrect_answers": [
+                "Java",
+                "Java Source",
+                "Joomla Source Code"
+            ]
+        }
+    ]
+}
